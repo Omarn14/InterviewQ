@@ -1,0 +1,6 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\InterviewQ\InterviewQ\bin\Debug\InterviewQ.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\InterviewQ\InterviewQ\bin\Debug\InterviewQ.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\InterviewQ\InterviewQ\bin\Debug\InterviewQ.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\InterviewQ\InterviewQ\obj\Debug\InterviewQ.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\InterviewQ\InterviewQ\obj\Debug\InterviewQ.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\InterviewQ\InterviewQ\obj\Debug\InterviewQ.pdb
